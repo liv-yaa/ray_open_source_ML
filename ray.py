@@ -1,3 +1,0 @@
-# ray.py
-
-print('ray')
